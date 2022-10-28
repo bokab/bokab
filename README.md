@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bokab
-- 👀 I’m interested in programming, and as a boy I liked computer science and wanted to learn more about it.
+- 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning React, and improving myself in Javascript. I plan to bring my knowledge to an enviable level!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Text me!
